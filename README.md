@@ -7,7 +7,7 @@
 The [microBean Helm project][12] lets you work with the server-side
 componentry of [Helm][0] from Java.
 
-This means your Java applications can now manage applications in your
+This means your Java applicadations can now manage applications in your
 Kubernetes cluster using the [Helm][0] notions of [charts][3]
 and [releases][9].
 
